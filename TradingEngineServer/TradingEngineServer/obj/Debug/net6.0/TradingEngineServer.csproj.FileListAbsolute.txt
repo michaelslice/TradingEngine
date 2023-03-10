@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\TradingEngine\TradingEngineServer\TradingEngineServer\obj\Debug\net6.0\TradingEngineServer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TradingEngine\TradingEngineServer\TradingEngineServer\obj\Debug\net6.0\TradingEngineServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TradingEngine\TradingEngineServer\TradingEngineServer\obj\Debug\net6.0\TradingEngineServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TradingEngine\TradingEngineServer\TradingEngineServer\obj\Debug\net6.0\TradingEngineServer.AssemblyInfo.cs
+C:\Users\User\Desktop\TradingEngine\TradingEngineServer\TradingEngineServer\obj\Debug\net6.0\TradingEngineServer.csproj.CoreCompileInputs.cache
